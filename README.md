@@ -1,6 +1,3 @@
-Certainly! Below is the content for the `ReadMe.md` file based on the provided code. This ReadMe includes small code snippets with explanations:
-
----
 
 # Habit Maker Web App 🚀
 
@@ -183,4 +180,3 @@ export default TaskContainer;
 
 Feel free to contribute by submitting issues or creating pull requests. Let's make Habit Maker even better together!
 
---- 
